@@ -32,7 +32,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-redux": "^8.0.2",
-    "swr": "^1.3.0"
+    "swr": "^2.0.4"
   },
   "devDependencies": {
     "@animeflix/tsconfig": "*",
