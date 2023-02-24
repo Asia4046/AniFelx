@@ -30,7 +30,7 @@
   "devDependencies": {
     "@animeflix/tsconfig": "*",
     "eslint-config-animeflix": "*",
-    "@graphql-codegen/cli": "^2.6.2",
+    "@graphql-codegen/cli": "^3.2.1",
     "@graphql-codegen/typescript": "^2.4.11",
     "@graphql-codegen/typescript-graphql-request": "^4.4.10",
     "@graphql-codegen/typescript-operations": "^2.4.2",
