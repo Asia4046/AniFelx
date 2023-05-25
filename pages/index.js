@@ -182,7 +182,6 @@ export default function Home({ detail, populars, sessions }) {
       <Head>
         <title>Ani-Felx</title>
         <meta charSet="UTF-8"></meta>
-        <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
           content="Ani-Felx - Free Anime and Manga Streaming"
@@ -191,7 +190,6 @@ export default function Home({ detail, populars, sessions }) {
           name="twitter:description"
           content="Discover your new favorite anime or manga title! Ani-Felx offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Ani-Felx today!"
         />
-        <link rel="icon" href="/c.svg" />
       </Head>
 
       {/* NAVBAR */}
