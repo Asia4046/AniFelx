@@ -191,10 +191,6 @@ export default function Home({ detail, populars, sessions }) {
           name="twitter:description"
           content="Discover your new favorite anime or manga title! Ani-Felx offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Ani-Felx today!"
         />
-        <meta
-          name="twitter:image"
-          content="https://cdn.discordapp.com/attachments/1084446049986420786/1093300833422168094/image.png"
-        />
         <link rel="icon" href="/c.svg" />
       </Head>
 
