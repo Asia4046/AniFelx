@@ -10,7 +10,7 @@ export default function DMCA() {
         <meta property="og:title" content="DMCA" />
         <meta
           property="og:description"
-          content="Moopa.live is committed to respecting the intellectual
+          content="Ani-Felx .live is committed to respecting the intellectual
                   property rights of others and complying with the Digital
                   Millennium Copyright Act (DMCA)."
         />
@@ -32,7 +32,7 @@ export default function DMCA() {
             <div className="flex flex-col gap-10">
               <div className="flex flex-col gap-3 text-[#cdcdcd]">
                 <p>
-                  Moopa.live is committed to respecting the intellectual
+                  Ani-Felx is committed to respecting the intellectual
                   property rights of others and complying with the Digital
                   Millennium Copyright Act (DMCA). We take copyright
                   infringement seriously and will respond to notices of alleged

@@ -200,7 +200,7 @@ export default function Card() {
   return (
     <>
       <Head>
-        <title>Moopa - search</title>
+        <title>Ani-Felx - search</title>
         <link rel="icon" href="/c.svg" />
       </Head>
       <div className="bg-primary">

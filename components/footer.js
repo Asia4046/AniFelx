@@ -15,7 +15,7 @@ function Footer() {
       <div className="mx-auto flex w-[80%] lg:w-[95%] xl:w-[80%] flex-col space-y-10 pb-6 lg:flex-row lg:items-center lg:justify-between lg:space-y-0 lg:py-0">
         <div className="flex items-center gap-24">
           <div className="lg:flex grid items-center lg:gap-10 gap-3">
-            {/* <h1 className="font-outfit text-[2.56rem]">moopa</h1> */}
+            {/* <h1 className="font-outfit text-[2.56rem]">Ani-Felx</h1> */}
             <h1 className="font-outfit text-[40px]">Ani-Felx</h1>
             <div>
               <p className="flex items-center gap-1 font-karla lg:text-[0.81rem] text-[0.7rem] text-[#CCCCCC]">

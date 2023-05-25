@@ -185,11 +185,11 @@ export default function Home({ detail, populars, sessions }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Moopa - Free Anime and Manga Streaming"
+          content="Ani-Felx - Free Anime and Manga Streaming"
         />
         <meta
           name="twitter:description"
-          content="Discover your new favorite anime or manga title! Moopa offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Moopa today!"
+          content="Discover your new favorite anime or manga title! Ani-Felx offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Ani-Felx today!"
         />
         <meta
           name="twitter:image"

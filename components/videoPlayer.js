@@ -43,9 +43,6 @@ export default function VideoPlayer({
             referer ? `&referer=${encodeURIComponent(referer)}` : ""
           }`,
           };
-          // url: `https://m3u8proxy.moopa.workers.dev/?url=${encodeURIComponent(items.url)}${
-          //   referer ? `&referer=${encodeURIComponent(referer)}` : ""
-          // }`,
         });
 
         const defSource = source?.find((i) => i?.default === true);
